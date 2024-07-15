@@ -6,13 +6,18 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="凤凰" tvg-id="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
-
-#EXTINF:-1 group-title="少儿" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
-http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&livodToken=666dd62edab2f379d998a97d884f8b9911fd13a6b49a4020a489d30d4f9dafcf_1720510213_604800&fromCDN=ws
 #EXTINF:-1 group-title="少儿" tvg-id="金鹰卡通" tvg-logo="http://tv.haoqu99.com/d/file/2014/0603/20140603063711188.jpg",金鹰卡通
 http://jxcbn.ws-cdn.gitv.tv/hls/JYKTHD/index.m3u8?gMac=unknown&livodToken=ceec5e21477c7c59c7a2244ad35c5b56dbc8be918e5f301ee3a6cd62c704a99a_1720510220_604800&fromCDN=ws
 #EXTINF:-1 group-title="少儿" tvg-id="浙江电视台少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0619/20160619033946335.jpg",浙江电视台少儿频道
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="少儿" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws
+#EXTINF:-1 group-title="少儿" tvg-id="江西少儿频道jxtv6" tvg-logo="http://tv.haoqu99.com/d/file/2016/0622/20160622055508984.jpg",江西少儿频道jxtv6
+http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&livodToken=5e939da8139add2e4069a71598b81b174daea2eef14281beb442417e51c34326_1720512512_604800&fromCDN=ws
+#EXTINF:-1 group-title="少儿" tvg-id="哈哈炫动卫视" tvg-logo="http://tv.haoqu99.com/d/file/2019/0228/smallde4e01d1fbddbf3c74cf6c4641f7b8a5.jpg",哈哈炫动卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=a941b119108340f43f484ae4a05f6aefc590736c90f209ab07373d6277c63aad_1720514437_604800&fromCDN=ws
+#EXTINF:-1 group-title="少儿" tvg-id="宁夏少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530110613295.jpg",宁夏少儿频道
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 
 
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
@@ -39,8 +44,6 @@ http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=0034
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=2c98acaa80392eb7cfc5167a9a71482882518255259852ee6387715d5104fd23_1720504686_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=7ff060443836507a41a5214026042c9626a11fbff401291700ce35d59c3e6293_1720504703_604800&fromCDN=ws
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=0d96180497a13efbadc909954e682aae4e63affa0ef1823b5c6dc5a73b461db4_1720504729_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livodToken=b714fc4aa91983a115cdc86176cd98542fc7be2916c39a626ef88fe721f90859_1720504745_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4K超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K超高清
@@ -113,3 +116,5 @@ http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb82
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=9195728ae1904a92bcaa6a229b9eb243&txTime=190965dd4f4
 #EXTINF:-1 group-title="卫视台" tvg-id="广州电视台新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042622928.jpg",广州电视台新闻频道
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=a4f3c929fc51bf19b59826b76abceba5&txTime=19095f884a5
+#EXTINF:-1 group-title="卫视台" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
+http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&livodToken=666dd62edab2f379d998a97d884f8b9911fd13a6b49a4020a489d30d4f9dafcf_1720510213_604800&fromCDN=ws
