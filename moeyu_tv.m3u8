@@ -18,7 +18,14 @@ http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&livodToken=5e939d
 http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=a941b119108340f43f484ae4a05f6aefc590736c90f209ab07373d6277c63aad_1720514437_604800&fromCDN=ws
 #EXTINF:-1 group-title="少儿" tvg-id="宁夏少儿频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530110613295.jpg",宁夏少儿频道
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-
+#EXTINF:-1 group-title="少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/动漫秀场.png",动漫秀场
+http://110.179.81.83:8083/udp/239.1.1.80:8080
+#EXTINF:-1 group-title="少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/优漫卡通.png",优漫卡通
+http://175.8.213.198:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/优漫卡通.png",优漫卡通
+http://123.189.36.39:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/优漫卡通.png",优漫卡通
+http://123.189.36.4:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=3f76fa247855b9f1507e08620e857dda1b4424839963e7074fc1ee72310d6023_1720504514_604800&fromCDN=ws
@@ -106,10 +113,6 @@ http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=f414ce81
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=2b30d57372713ae10ee004113d8ce4b737f5bd7631a1bd4bf19aa667cd535f27_1720505278_604800&fromCDN=ws
-#EXTINF:-1 group-title="其他" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="其他" tvg-id="CETV4空中课堂频道" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4空中课堂频道
-http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws
 #EXTINF:-1 group-title="卫视台" tvg-id="广州电视台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042346693.jpg",广州电视台影视频道
@@ -118,3 +121,10 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=9195728ae1904a92bcaa6a22
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=a4f3c929fc51bf19b59826b76abceba5&txTime=19095f884a5
 #EXTINF:-1 group-title="卫视台" tvg-id="金鹰纪实频道" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417125839242.jpg",金鹰纪实频道
 http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&livodToken=666dd62edab2f379d998a97d884f8b9911fd13a6b49a4020a489d30d4f9dafcf_1720510213_604800&fromCDN=ws
+
+#EXTINF:-1 group-title="其他" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 group-title="其他" tvg-id="CETV4空中课堂频道" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV4空中课堂频道
+http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png",CHC动作电影
+http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
