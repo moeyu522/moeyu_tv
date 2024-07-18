@@ -37,6 +37,11 @@ http://123.189.36.39:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/优漫卡通.png",优漫卡通
 http://123.189.36.4:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 group-title="少儿" tvg-logo="https://img.gdtv.cn/image/202010/0.30337141509040366121fbecf64d4705c1fOSS1603782684.png",广东少儿
+https://tcdn.itouchtv.cn/live/gdse.m3u8?t_token=b589493ca3d7e4e12763bae780798bff-gV8zql7ZFODwGaL%2F%2B2OPP1ZucH1IgIwC1DmO%2BqtP%2Fg%2B7M87fI%2FJtPV6ba8ihvZe348ihuFA8pnO2smc%2BnfcdUV2mwk2FJD%2BEQslWN4aRqXMxRIX9RfKWz%2Ft535eDT7tEJiHnq3S%2F%2F7XXJy5M1RAOSiCr59quTIEINF%2BW9KNKf7gJ%2BglgupSd0daTG%2FPtqTE%2FummiPiexNxMB8vgsgdHYGgDvgZn4k2uKHNQBS4F8iuyKHX8ebfi5gsIhf7liFj7iirrN0Ustl8PurzJjmjtmZgKufa65DxP6NBTAwbr7NP166NUdije1c5qthJ9EE2p97JyVoG4%2BaMFI80UDwankBSu4ffDSWT2kUKCkYdstGgW7X19Q%2FzA7ud34azWygitopUfqo74XaBaKeHRfgPNVsA%3D%3D
+#EXTINF:-1 group-title="少儿" tvg-logo="https://img.gdtv.cn/image/202010/0.6444330962711713141fbecf64d4705c1fOSS1603782736.png",嘉佳卡通
+https://tcdn.itouchtv.cn/live/jjkt.m3u8?t_token=1bb3ab26587cfecd01f760d86e47be37-OPXHYxfU6FRsarzf8309ya36JZGcehu6W8hBeIj7hWh6UfthwJ8u%2Bwmfb7B9gu3zDfMCuYcmYP1uLW6ASHU%2FPwDO%2BaWrQ%2F6KCc1CZvCFUbZw4OiFwendbWV2ykl7%2Fj6QDoyTb89EW4awG8VQ1hqp7oZRNiufOQQBXAWVjGv1%2BwNP06wwa80isZhCq9FMPJapmFURihN3iS%2FpyEBeLVcJBD35LUeVHgiNy1L0U2S%2FGAp5jvpS6nzC4kTV5NkW2IIxb8iSUztfYw1jW9LsPFlbU8M%2BHbeRZ%2BkjCawK31mkqBrh3v8F6%2BxQOWzdPE7nT4UgX0v1PiLiUwoZLM5xCBgoD91HppSq8wIHmcZCz5QQIDC95F23b4y4VOH6v9pePDdy
+
 
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=3f76fa247855b9f1507e08620e857dda1b4424839963e7074fc1ee72310d6023_1720504514_604800&fromCDN=ws
